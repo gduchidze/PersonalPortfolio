@@ -1,5 +1,10 @@
 # Personal Portfolio
 
+![Home Page](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/2.png)
+![RAG Chat With My Repo Example](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/1.png)
+![Contact Page](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/4.png)
+![Contact Functionaly Example](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/3.png)
+
 Vercel - ზე დაჰოსტილი საიტის ლინკი : https://personal-portfolio-ashy-kappa.vercel.app/home
 
 ეს პროექტი წარმოადგენს **Single Page Application (SPA)** პერსონალურ პორტფოლიოს, რომელიც შექმნილია **React.js**-ით.  
