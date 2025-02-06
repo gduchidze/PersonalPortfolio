@@ -1,0 +1,29 @@
+.header {
+    width: 100%;
+    max-width: 1400px;
+    padding: 20px 5px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .nav__item {
+    list-style: none;
+  
+    a {
+      all: unset;
+      text-decoration: none;
+      color: inherit;
+      cursor: pointer;
+      color: rgba(var(--title));
+    }
+  }
+  
