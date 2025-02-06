@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Vercel - ზე დაჰოსტილი საიტის ლინკი : https://personal-portfolio-ashy-kappa.vercel.app/home
+Vercel - ზე დაჰოსტილი საიტის ლინკი : https://personal-portfolio-ashy-kappa.vercel.app
 
 ეს პროექტი წარმოადგენს **Single Page Application (SPA)** პერსონალურ პორტფოლიოს, რომელიც შექმნილია **React.js**-ით.  
 საიტი უზრუნველყოფს ინფორმაციას ჩემს პროფესიულ გამოცდილებაზე, პროექტებზე და საკონტაქტო დეტალებზე.
