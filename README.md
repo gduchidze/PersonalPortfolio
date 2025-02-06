@@ -1,9 +1,6 @@
 # Personal Portfolio
 
-![Home Page](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/2.png)
-![RAG Chat With My Repo Example](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/1.png)
-![Contact Page](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/4.png)
-![Contact Functionaly Example](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/3.png)
+გაითვალისწინეთ რომ ჩემი RAG პაიპლაინი  დაჰოსტილია Render ზე სადაც უმოქმედობის შემთხვევაში იძინებს 50 წამით ამიტომ ჰელს ჩექის რექვესტი შეგიძლიათ გაუშვათ აქ: https://chatrepo-rag-1.onrender.com/health
 
 Vercel - ზე დაჰოსტილი საიტის ლინკი : https://personal-portfolio-ashy-kappa.vercel.app/home
 
@@ -56,10 +53,20 @@ Vercel - ზე დაჰოსტილი საიტის ლინკი :
 
 ## 🚀 ინსტალაცია და გაშვება
 
+![Home Page](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/2.png)
+![RAG Chat With My Repo Example](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/1.png)
+![Contact Page](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/4.png)
+![Contact Functionaly Example](https://github.com/gduchidze/PersonalPortfolio/blob/main/src/assets/3.png)
+
 ### 1. პროექტის დაკლონვა  
 ```sh
 git clone https://github.com/gduchidze/PersonalPortfolio.git
 cd PersonalPortfolio
 npm install
 npm run dev
+
+
+
+
+
 
